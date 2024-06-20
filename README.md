@@ -1,4 +1,4 @@
-# Square Eyes Project
+# Community science Museum #
 
 A website project aimed at creating an interactive and visually appealing experience for users interested in exploring art and design.
 
