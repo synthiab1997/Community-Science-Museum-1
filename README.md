@@ -1,5 +1,7 @@
 🧬 Community Science Museum
 
+Live Demo: https://science-community-museum.netlify.app
+
 An interactive and visually engaging website project designed to introduce users to science, discovery, and exploration. This site was built as part of a web development learning project focusing on clean layout, accessibility, and responsive design.
 
 ![Community Science Museum Screenshot](./assets_images/Screenshot%202024-06-06%20at%2021.00.42.png)
