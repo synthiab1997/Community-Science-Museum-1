@@ -1,72 +1,105 @@
-# Community science Museum #
+🧬 Community Science Museum
 
-A website project aimed at creating an interactive and visually appealing experience for users interested in exploring art and design.
+An interactive and visually engaging website project designed to introduce users to science, discovery, and exploration. This site was built as part of a web development learning project focusing on clean layout, accessibility, and responsive design.
 
-![Square Eyes Project Screenshot](./assets_images/Screenshot%202024-06-06%20at%2021.00.42.png)
+![Community Science Museum Screenshot](./assets_images/Screenshot%202024-06-06%20at%2021.00.42.png)
 
-## Table of Contents
+📚 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technology Used](#technology-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Overview
 
-## Installation
+Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/synthiab1997/html-css-square-eyes-project.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd html-css-square-eyes-project
-    ```
-3. Open `index.html` in your browser to view the project locally.
+Usage
 
-## Usage
+Features
 
-To use this project, simply open the `index.html` file in your web browser. No additional setup is required.
+Tech Stack
 
-## Features
+Contributing
 
-- Gallery of artistic designs and visual compositions
-- Responsive design for optimal viewing across devices
-- User-friendly interface and navigation
-- Creative use of CSS for animations and effects
+License
 
-## Technology Used
+Contact
 
-- HTML
-- CSS
+🌟 Overview
 
-## Contributing
+The Community Science Museum website provides users with an engaging way to learn about different scientific topics through interactive sections, clean visuals, and modern web design.
 
-Contributions are welcome! Please follow these steps:
+🛠 Installation
 
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Open a pull request.
+Clone the repository:
 
-## License
+git clone https://github.com/synthiab1997/Community-Science-Museum-1.git
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+Navigate to the project folder:
 
-Synthia B - [synthia.bassole@yahoo.fr](mailto:synthia.bassole@yahoo.fr)
+cd Community-Science-Museum-1
 
-Project Link: [https://github.com/synthiab1997/html-css-square-eyes-project](https://github.com/synthiab1997/html-css-square-eyes-project)
+
+Open index.html in your browser to view the project locally.
+
+▶️ Usage
+
+No special setup is required. Simply open:
+
+index.html
+
+
+in any browser to explore the site.
+
+✨ Features
+
+Multiple pages showcasing museum content
+
+Responsive design for mobile, tablet, and desktop
+
+Clean layout and accessible navigation
+
+Interactive sections encouraging exploration
+
+Visual assets and icons for enhanced experience
+
+🧰 Tech Stack
+
+HTML
+
+CSS
+
+JavaScript (if applicable for small interactions)
+
+🤝 Contributing
+
+Contributions are always welcome!
+
+Fork the repository
+
+Create a new branch
+
+git checkout -b feature-name
+
+
+Commit changes
+
+git commit -m "Add new feature"
+
+
+Push your branch
+
+git push origin feature-name
+
+
+Open a Pull Request
+
+📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📬 Contact
+
+Synthia B
+📧 Email: synthia.bassole@yahoo.fr
+
+GitHub Repo:
+https://github.com/synthiab1997/Community-Science-Museum-1
